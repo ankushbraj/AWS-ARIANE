@@ -2,7 +2,7 @@
 
 #!/bin/bash
 AWS_DEFAULT_REGION="eu-central-1"
-Email="ankushbraj@gmail.com"
+Email="ankush.basavarajappa@lhind.dlh.de"
 
 # Parameters to Configure Specific Github Repo
 GitHub_User="ankushbraj"
