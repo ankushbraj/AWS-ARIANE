@@ -20,7 +20,7 @@ Instance_Type="ml.m4.xlarge"
 Max_Runtime_In_Seconds=86400
 Vol_In_GB=60
 
-Template_Name="${GitHub_Repo}-sage-pipeline14"
+Template_Name="${GitHub_Repo}-sage-pipeline15"
 Lambdas_Bucket="${Template_Name}-lambdas-`date '+%Y-%m-%d-%H-%M-%S'`"
 Lambdas_Key="SageMakerTriggered/LambdaFunction.zip"
 
