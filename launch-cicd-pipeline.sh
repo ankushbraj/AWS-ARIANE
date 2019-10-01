@@ -8,7 +8,7 @@ Email="ankush.basavarajappa@lhind.dlh.de"
 GitHub_User="ankushbraj"
 GitHub_Repo="aws-ariane"
 GitHub_Branch="master"
-GitHub_Token="e2765a4aadbc7a565228375389a82ff1a88181cb "
+GitHub_Token="b3b8348351d343b920810b193a60182737e325a1"
 
 # CodeBuild Project Parameters
 Python_Build_Version="aws/codebuild/python:3.6.5-1.3.2"
@@ -20,7 +20,7 @@ Instance_Type="ml.m4.xlarge"
 Max_Runtime_In_Seconds=86400
 Vol_In_GB=60
 
-Template_Name="${GitHub_Repo}-sage-pipeline2"
+Template_Name="${GitHub_Repo}-sage-pipeline14"
 Lambdas_Bucket="${Template_Name}-lambdas-`date '+%Y-%m-%d-%H-%M-%S'`"
 Lambdas_Key="SageMakerTriggered/LambdaFunction.zip"
 
