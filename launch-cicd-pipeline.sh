@@ -8,7 +8,7 @@ Email="ankush.basavarajappa@lhind.dlh.de"
 GitHub_User="ankushbraj"
 GitHub_Repo="aws-ariane"
 GitHub_Branch="master"
-GitHub_Token="b3b8348351d343b920810b193a60182737e325a1"
+GitHub_Token="e0a49785f5b1684a09e35d2f6e78f686f611a8e0"
 
 # CodeBuild Project Parameters
 Python_Build_Version="aws/codebuild/python:3.6.5-1.3.2"
